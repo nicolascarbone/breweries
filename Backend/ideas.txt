@@ -1,0 +1,2 @@
+hacer una parte para calificacion de cervecerias por locacion del user
+hacer otra parte para recetas y ese tipo de cosas
